@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main -Enter point 
- * Return: Always 0 (Success)
+ *main-Enter point
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
