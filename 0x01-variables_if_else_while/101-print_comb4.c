@@ -11,9 +11,9 @@ int main(void)
 
 	for (i = 0; i <= 3; i++)
 	{
-		for (j = 1; j <= 3; j++)
+		for (j = 1; j <= 4; j++)
 		{
-			for (k = 2; k <= 3; k++)
+			for (k = 1; k <= 9; k++)
 			{
 				printf("%d %d %d\n", i, j, k);
 			}
