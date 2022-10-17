@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- * main - writ a progeram that prints all single digit numbers
- * Reture: Always 0
+ * main - num
+ * Return: Always 0
  */
 int main(void)
 {
