@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet_x10
+ *print_alphabet_x10 - print 10 times latter
  */
 void print_alphabet_x10(void)
 {
@@ -13,4 +13,5 @@ void print_alphabet_x10(void)
 			_putchar(latter);
 		_putchar('\n');
 	}
+	return (0);
 }
