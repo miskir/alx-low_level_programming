@@ -2,16 +2,17 @@
 /**
  *print_alphabet_x10 - print 10 times latter
  */
-void print_alphabet_x10(void)
+void print_alphabet_x10(void);
 {
-	int count = 0;
-	char ch;
+	int j;
+	int x;
 
-	while (count++ <= 9)
+	for (x = 0; x < 10; x++)
 	{
-		for (ch = 'a'; ch <= 'z'; ch++)
-			_putchar(latter);
+		for (j = 'a'; ch <= 'z'; j++)
+		{
+			_putchar(j);
+		}
 		_putchar('\n');
 	}
-	return (0);
 }
