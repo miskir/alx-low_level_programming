@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
- *print_alphabet_x10 - print 10 times latter
+ *print_alphabet_x10 -> print 10 times latter
  */
-void print_alphabet_x10(void);
+
+void print_alphabet_x10(void)
 {
 	int j;
 	int x;
